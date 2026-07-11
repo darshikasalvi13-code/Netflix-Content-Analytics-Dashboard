@@ -96,6 +96,16 @@ Netflix offers thousands of movies and TV shows across different countries and g
 
 ---
 
+## Key Business Insights
+
+- Movies constitute approximately 70% of Netflix content.
+- Netflix experienced rapid content growth after 2016.
+- TV-MA and TV-14 dominate ratings.
+- The United States contributes the highest amount of content.
+- International Movies and Documentaries are among the most popular genres.
+
+---
+
 ## Dashboard Preview
 
 ![Dashboard](https://github.com/darshikasalvi13-code/Netflix-Content-Analytics-Dashboard/blob/main/images/dashboard.png)
