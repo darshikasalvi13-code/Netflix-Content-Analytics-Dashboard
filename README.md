@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Netflix Content Analytics Dashboard
 
 ## Project Overview
