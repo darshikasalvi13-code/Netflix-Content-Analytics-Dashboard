@@ -94,7 +94,7 @@ Netflix offers thousands of movies and TV shows across different countries and g
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](https://github.com/darshikasalvi13-code/Netflix-Content-Analytics-Dashboard/blob/main/images/dashboard.png)
 
 
 ---
