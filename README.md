@@ -94,7 +94,7 @@ Netflix offers thousands of movies and TV shows across different countries and g
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard]"C:\Users\SHRAVANI SALVI\Downloads\Screenshot 2026-07-11 211953.png"
 
 
 ---
